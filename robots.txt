@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://lutfur-digital.github.io/portfolio/sitemap.xml
